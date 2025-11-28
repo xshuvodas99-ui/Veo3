@@ -1,0 +1,5 @@
+{
+  "name": "Veo Studio",
+  "description": "A professional video generation studio powered by Google's Veo 3.1 AI model. Generate high-quality videos from text and image prompts.",
+  "requestFramePermissions": []
+}
